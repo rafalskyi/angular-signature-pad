@@ -29,7 +29,7 @@
     "http-server": "^0.10.0",
     "jasmine-core": "^2.5.2",
     "karma": "^1.4.1",
-    "karma-chrome-launcher": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
     "karma-detect-browsers": "^2.2.4",
     "karma-edge-launcher": "^0.4.1",
     "karma-firefox-launcher": "^1.0.0",
